@@ -2,6 +2,8 @@
 
 ## Diagram
 
+![screenshot](dnaSequence.png)
+
 ## Solution/Work Process
 
 Please follow the below instructions on how to submit your answers.
