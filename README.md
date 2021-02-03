@@ -1,5 +1,7 @@
 # ACM Research Coding Challenge (Spring 2021)
 
+## Diagram
+
 ## Solution/Work Process
 
 Please follow the below instructions on how to submit your answers.
